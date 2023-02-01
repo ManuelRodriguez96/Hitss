@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hitss</string>
+    <string name="network_error">Network error, could get data,please try again!</string>
+</resources>
